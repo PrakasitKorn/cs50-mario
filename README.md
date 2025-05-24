@@ -26,7 +26,7 @@ The user is prompted to enter the height of the pyramid (1 to 8), and the progra
    
 ## 📸 Sample Output
 
--shell
+```shell
 Height: 4
    #  #
   ##  ##
