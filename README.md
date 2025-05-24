@@ -20,7 +20,8 @@ The user is prompted to enter the height of the pyramid (1 to 8), and the progra
    ```bash
    clang -o mario mario.c
 2. Run the program:
-./mario
+   ```bash
+  ./mario
 3. Enter a height between 1 and 8.
    
 ## 📸 Sample Output
